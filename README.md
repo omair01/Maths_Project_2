@@ -12,3 +12,4 @@ Hyperparameter tuning is also done for better accuracy
 Next we used ViT for better accuracy
 As we all know transformer-based model is more effective at capturing long-range dependencies in the images so resulting model should have higher accuracy than the previous model
 
+Vit model's training loss is decreasing over time, which is a good sign. Validation accuracy seems to have plateaued and even decreased towards the end of training, which may indicate that the model is overfitting to the training data and not generalizing well to new data.
