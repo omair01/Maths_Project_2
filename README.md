@@ -17,4 +17,4 @@ Vit model's training loss is decreasing over time, which is a good sign. Validat
 
 
 
-
+Web page: https://omair01.github.io/Maths_Project_2/Maths2Final_Project.html
